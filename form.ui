@@ -435,6 +435,25 @@
     <pixmap>region/crimea.png</pixmap>
    </property>
   </widget>
+  <widget class="QLabel" name="Ukraine">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="toolTipDuration">
+    <number>1</number>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/ua-02.png</pixmap>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
