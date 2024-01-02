@@ -9,6 +9,8 @@ from PySide6.QtWidgets import QApplication, QWidget
 #     pyside2-uic form.ui -o ui_form.py
 from ui_form import Ui_Widget
 
+from alerts import *
+
 class Widget(QWidget):
     def __init__(self, parent=None):
         super().__init__(parent)
@@ -19,5 +21,7 @@ class Widget(QWidget):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     widget = Widget()
+    a = alerts()
+    a.getActualData()
     widget.show()
     sys.exit(app.exec())
