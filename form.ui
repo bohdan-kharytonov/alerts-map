@@ -13,6 +13,428 @@
   <property name="windowTitle">
    <string>Widget</string>
   </property>
+  <widget class="QLabel" name="zaporizha">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="lineWidth">
+    <number>0</number>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/zaporizha.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="kherson">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="midLineWidth">
+    <number>5</number>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/kherson.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="mykolaiv">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/mykolaiv.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="odesa">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/odesa.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="vinnytsia">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/vinnytsia.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="khmelnytskyi">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/khmelnytskyi.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="chernivts">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/chernivtsi.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="ivanoFrankivsk">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/ivano-frankivsk.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="zakarpattia">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/zakarpattia.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lviv">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/lviv.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="ternopil">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/ternopil.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="volyn">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/volyn.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="rivne">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/rivne.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="zhytomyr">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/zhytomyr.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="kyivRegion">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/kyiv-region.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="kyiv">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/kyiv.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="chernihiv">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/chernihiv.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="sumy">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/sumy.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="poltava">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/poltava.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="cherkasy">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/cherkasy.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="kirovohrad">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/kirovohrad.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="dnipropetrovsk">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/dnipropetrovsk.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="kharkiv">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/kharkiv.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="luhansk">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/luhansk.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="donetsk">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/donetsk.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QLabel" name="crimea">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>80</y>
+     <width>624</width>
+     <height>468</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>region/crimea.png</pixmap>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
