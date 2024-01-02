@@ -1,0 +1,4 @@
+alerts-map.pyproject.user
+venv/
+env/
+__pycache__/
