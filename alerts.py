@@ -11,9 +11,11 @@ class alerts:
         json_data_str = contents.decode("utf-8") if isinstance(contents, bytes) else contents
         data = json.loads(json_data_str)
 
-        location_oblast_uids = [alert["location_oblast_uid"] for alert in data["alerts"]]
+        location_oblast_uids = [alert["location_oblast_uid"] for alert in data["alerts"] if alert["alert_type"] == "air_raid"]
 
-        print(location_oblast_uids)
+        # print(location_oblast_uids)
+        print(set(location_oblast_uids))
+        return set(location_oblast_uids)
 
 
 
