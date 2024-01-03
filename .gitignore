@@ -2,3 +2,4 @@ alerts-map.pyproject.user
 venv/
 env/
 __pycache__/
+*.autosave
