@@ -29,7 +29,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/zaporizha.png</pixmap>
+    <pixmap>region/zaporizha_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="kherson">
@@ -48,7 +48,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/kherson.png</pixmap>
+    <pixmap>region/kherson_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="mykolaiv">
@@ -64,7 +64,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/mykolaiv.png</pixmap>
+    <pixmap>region/mykolaiv_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="odesa">
@@ -80,7 +80,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/odesa.png</pixmap>
+    <pixmap>region/odesa_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="vinnytsia">
@@ -96,7 +96,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/vinnytsia.png</pixmap>
+    <pixmap>region/vinnytsia_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="khmelnytskyi">
@@ -112,10 +112,10 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/khmelnytskyi.png</pixmap>
+    <pixmap>region/khmelnytskyi_alert.png</pixmap>
    </property>
   </widget>
-  <widget class="QLabel" name="chernivts">
+  <widget class="QLabel" name="chernivtsi">
    <property name="geometry">
     <rect>
      <x>80</x>
@@ -128,7 +128,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/chernivtsi.png</pixmap>
+    <pixmap>region/chernivtsi_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="ivanoFrankivsk">
@@ -144,7 +144,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/ivano-frankivsk.png</pixmap>
+    <pixmap>region/ivano-frankivsk_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="zakarpattia">
@@ -160,7 +160,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/zakarpattia.png</pixmap>
+    <pixmap>region/zakarpattia_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="lviv">
@@ -176,7 +176,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/lviv.png</pixmap>
+    <pixmap>region/lviv_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="ternopil">
@@ -192,7 +192,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/ternopil.png</pixmap>
+    <pixmap>region/ternopil_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="volyn">
@@ -208,7 +208,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/volyn.png</pixmap>
+    <pixmap>region/volyn_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="rivne">
@@ -224,7 +224,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/rivne.png</pixmap>
+    <pixmap>region/rivne_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="zhytomyr">
@@ -240,7 +240,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/zhytomyr.png</pixmap>
+    <pixmap>region/zhytomyr_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="kyivRegion">
@@ -256,7 +256,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/kyiv-region.png</pixmap>
+    <pixmap>region/kyiv-region_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="kyiv">
@@ -272,7 +272,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/kyiv.png</pixmap>
+    <pixmap>region/kyiv_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="chernihiv">
@@ -288,7 +288,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/chernihiv.png</pixmap>
+    <pixmap>region/chernihiv_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="sumy">
@@ -304,7 +304,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/sumy.png</pixmap>
+    <pixmap>region/sumy_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="poltava">
@@ -320,7 +320,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/poltava.png</pixmap>
+    <pixmap>region/poltava_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="cherkasy">
@@ -336,7 +336,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/cherkasy.png</pixmap>
+    <pixmap>region/cherkasy_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="kirovohrad">
@@ -352,7 +352,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/kirovohrad.png</pixmap>
+    <pixmap>region/kirovohrad_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="dnipropetrovsk">
@@ -368,7 +368,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/dnipropetrovsk.png</pixmap>
+    <pixmap>region/dnipropetrovsk_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="kharkiv">
@@ -384,7 +384,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/kharkiv.png</pixmap>
+    <pixmap>region/kharkiv_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="luhansk">
@@ -400,7 +400,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/luhansk.png</pixmap>
+    <pixmap>region/luhansk_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="donetsk">
@@ -416,7 +416,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/donetsk.png</pixmap>
+    <pixmap>region/donetsk_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="crimea">
@@ -432,7 +432,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>region/crimea.png</pixmap>
+    <pixmap>region/crimea_alert.png</pixmap>
    </property>
   </widget>
   <widget class="QLabel" name="Ukraine">
