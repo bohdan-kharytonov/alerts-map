@@ -13,8 +13,7 @@ class alerts:
 
         location_oblast_uids = [alert["location_oblast_uid"] for alert in data["alerts"] if alert["alert_type"] == "air_raid"]
 
-        # print(location_oblast_uids)
-        print(set(location_oblast_uids))
+        # print(set(location_oblast_uids))
         return set(location_oblast_uids)
 
 
