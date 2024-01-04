@@ -22,7 +22,7 @@ class Widget(QWidget):
         self.timer.timeout.connect(self.update_data)
         self.start_timer()
         self.unique_element = {}
-
+        self.showMaximized()
     def start_timer(self):
            self.timer.start(10000)
 
