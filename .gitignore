@@ -4,3 +4,8 @@ env/
 __pycache__/
 *.autosave
 api.txt
+.vscode
+.yocto/build/*cache*
+.yocto/build/tmp
+.yocto/build/bitbake-cookerdaemon.log
+.yocto/build/pyshtables.py
