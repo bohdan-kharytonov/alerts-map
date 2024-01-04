@@ -5,9 +5,11 @@ import json
 
 class alerts:
     def __init__(self):
+        with open('api.txt') as f:
+            self.lines = f.read()
         pass
     def getActualData(self):
-        contents = urllib.request.urlopen("https://api.alerts.in.ua/v1/alerts/active.json?token=").read()
+        contents = urllib.request.urlopen(f"https://api.alerts.in.ua/v1/alerts/active.json?token={self.lines}").read()
         json_data_str = contents.decode("utf-8") if isinstance(contents, bytes) else contents
         data = json.loads(json_data_str)
 
