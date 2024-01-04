@@ -26,7 +26,10 @@ class Widget(QWidget):
         self.timer.start(10000)
 
     def update_data(self):
-        town = {3:"khmelnytskyi", 4:"vinnytsia", 5:"rivne", 8: "volyn", 9:"dnipropetrovsk", 10:"zhytomyr", 11: "zakarpattia", 12: "zaporizha", 13: "ivanoFrankivsk", 14: "kyivRegion", 15: "kirovohrad", 16:"luhansk", 17: "mykolaiv", 18: "odesa", 19: "poltava", 20: "sumy", 21: "ternopil" , 22: "kharkiv", 23: "kherson", 24: "cherkasy", 25: "chernihiv", 26: "chernivtsi", 27: "lviv", 28: "donetsk", 29:"crimea", 31: "kyiv"}
+        town = {3:"khmelnytskyi", 4:"vinnytsia", 5:"rivne", 8: "volyn", 9:"dnipropetrovsk", 10:"zhytomyr",
+        11: "zakarpattia", 12: "zaporizha", 13: "ivanoFrankivsk", 14: "kyivRegion", 15: "kirovohrad", 16:"luhansk",
+        17: "mykolaiv", 18: "odesa", 19: "poltava", 20: "sumy", 21: "ternopil" , 22: "kharkiv", 23: "kherson",
+        24: "cherkasy", 25: "chernihiv", 26: "chernivtsi", 27: "lviv", 28: "donetsk", 29:"crimea", 31: "kyiv"}
 
         a = alerts()
         data = a.getActualData()
