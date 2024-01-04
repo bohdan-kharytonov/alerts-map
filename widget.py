@@ -2,7 +2,6 @@
 import sys
 
 from PySide6.QtWidgets import QApplication, QWidget, QLabel
-from PySide6.QtGui import QPixmap, QColor, QPalette
 from PySide6.QtCore import QTimer
 # Important:
 # You need to run the following command to generate the ui_form.py file
