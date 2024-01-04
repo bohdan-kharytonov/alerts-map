@@ -9,7 +9,7 @@ from PySide6.QtCore import QTimer
 #     pyside2-uic form.ui -o ui_form.py
 from ui_form import Ui_Widget
 
-from alerts import *
+from alerts import alerts
 
 class Widget(QWidget):
 
