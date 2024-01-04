@@ -168,7 +168,7 @@ class Ui_Widget(object):
     # setupUi
 
     def retranslateUi(self, Widget):
-        Widget.setWindowTitle(QCoreApplication.translate("Widget", u"Widget", None))
+        Widget.setWindowTitle(QCoreApplication.translate("Alerts", u"Alerts", None))
         self.zaporizha.setText("")
         self.kherson.setText("")
         self.mykolaiv.setText("")
