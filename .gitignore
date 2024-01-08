@@ -9,3 +9,4 @@ api.txt
 .yocto/build/tmp
 .yocto/build/bitbake-cookerdaemon.log
 .yocto/build/pyshtables.py
+.yocto/build/downloads
