@@ -74,7 +74,8 @@ RUN mkdir /poky/build
 
 RUN git clone https://github.com/agherzan/meta-raspberrypi -b $YOCTO_RELEASE
 RUN git clone https://github.com/openembedded/meta-openembedded.git -b $YOCTO_RELEASE
-RUN git clone https://github.com/meta-qt5/meta-qt5.git -b $YOCTO_RELEASE
+RUN git clone https://github.com/kraj/meta-clang.git -b $YOCTO_RELEASE
+RUN git clone https://github.com/YoeDistro/meta-qt6.git
 # COPY meta-custom /poky/meta-custom
 # COPY meta-image-config /poky/meta-image-config
 # COPY custom-images/ /poky/custom-images
